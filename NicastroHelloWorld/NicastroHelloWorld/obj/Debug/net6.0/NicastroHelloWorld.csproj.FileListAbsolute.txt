@@ -1,0 +1,15 @@
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/bin/Debug/net6.0/NicastroHelloWorld
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/bin/Debug/net6.0/NicastroHelloWorld.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/bin/Debug/net6.0/NicastroHelloWorld.runtimeconfig.json
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/bin/Debug/net6.0/NicastroHelloWorld.dll
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/bin/Debug/net6.0/NicastroHelloWorld.pdb
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/obj/Debug/net6.0/NicastroHelloWorld.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/obj/Debug/net6.0/NicastroHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/obj/Debug/net6.0/NicastroHelloWorld.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/obj/Debug/net6.0/NicastroHelloWorld.AssemblyInfo.cs
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/obj/Debug/net6.0/NicastroHelloWorld.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/obj/Debug/net6.0/NicastroHelloWorld.dll
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/obj/Debug/net6.0/refint/NicastroHelloWorld.dll
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/obj/Debug/net6.0/NicastroHelloWorld.pdb
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/obj/Debug/net6.0/NicastroHelloWorld.genruntimeconfig.cache
+/Users/sawyernicastro/Desktop/IGME 201/NicastroHelloWorld/NicastroHelloWorld/obj/Debug/net6.0/ref/NicastroHelloWorld.dll
