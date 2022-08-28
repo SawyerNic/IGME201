@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{6D657E67-6298-4207-87FA-2BBC14C99200}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.NicastroHelloWorld FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../IGME-201/Program.cs">
+    <Files>
+      <File FileName="NicastroHelloWorld/Program.cs" Line="8" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NicastroHelloWorld" expanded="True">
+            <Node name="NicastroHelloWorld" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NicastroHelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
