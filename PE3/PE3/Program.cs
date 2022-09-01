@@ -19,7 +19,15 @@ namespace convert
             {
                 string line = Console.ReadLine();
 
-                total += (int)Convert.ToDouble(line);
+                try
+                {
+                    total += (int)Convert.ToDouble(line);
+                }
+                catch
+                {
+                    Console.Write("Please enter an intiger");
+                    i--;
+                }
             }
 
             Console.Write("Sum: " + total);
