@@ -4,9 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+namespace convert
+{
 
-string Max_Size = "supercalifragilisticexpialidocious";
+    class program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("type four numbers\n");
 
-Console.WriteLine(Max_Size);
+            int total = 0;
+
+            for(int i = 0; i < 4; i++)
+            {
+                string line = Console.ReadLine();
+
+                total += (int)Convert.ToDouble(line);
+            }
+
+            Console.Write("Sum: " + total);
+
+            
+
+
+        }
+    }
+}
