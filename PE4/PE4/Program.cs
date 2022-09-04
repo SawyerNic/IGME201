@@ -21,10 +21,10 @@ namespace project4
             string prompt = "Enter two numbers";
 
             //while loop wont terminate unless there is one number over ten and one number under
-            while ((var1 > 10 && var2 < 10) || (var1 < 10 && var2 > 10))
+            while((var1 > 10 && var2 > 10) || (var1 < 10 && var2 < 10))
             {
                 //ask user to enter two numbers
-                Console.Write(prompt);
+                Console.Write(prompt + "\n");
 
                 //parse input to int
                 var1 = int.Parse(Console.ReadLine());
@@ -33,6 +33,9 @@ namespace project4
                 //change prompt in case user guesses incorrect
                 prompt = "Enter two different numbers";
             }
+
+            //display the numbers when they are correct
+            Console.Write(var1 + " and " + var2);
 
 
         }
