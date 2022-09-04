@@ -1,0 +1,5 @@
+/Users/sawyernicastro/Desktop/IGME 201/PE4
+/Users/sawyernicastro/Desktop/IGME 201/PE4.dll
+/Users/sawyernicastro/Desktop/IGME 201/PE4.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/PE4.runtimeconfig.json
+/Users/sawyernicastro/Desktop/IGME 201/PE4.pdb
