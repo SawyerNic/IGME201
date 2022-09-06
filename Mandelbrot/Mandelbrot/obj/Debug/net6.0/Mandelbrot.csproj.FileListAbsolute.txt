@@ -1,0 +1,15 @@
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/bin/Debug/net6.0/Mandelbrot
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/bin/Debug/net6.0/Mandelbrot.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/bin/Debug/net6.0/Mandelbrot.runtimeconfig.json
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/bin/Debug/net6.0/Mandelbrot.dll
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/bin/Debug/net6.0/Mandelbrot.pdb
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/obj/Debug/net6.0/Mandelbrot.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/obj/Debug/net6.0/Mandelbrot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/obj/Debug/net6.0/Mandelbrot.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/obj/Debug/net6.0/Mandelbrot.AssemblyInfo.cs
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/obj/Debug/net6.0/Mandelbrot.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/obj/Debug/net6.0/Mandelbrot.dll
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/obj/Debug/net6.0/refint/Mandelbrot.dll
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/obj/Debug/net6.0/Mandelbrot.pdb
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/obj/Debug/net6.0/Mandelbrot.genruntimeconfig.cache
+/Users/sawyernicastro/Desktop/IGME 201/Mandelbrot/Mandelbrot/obj/Debug/net6.0/ref/Mandelbrot.dll
