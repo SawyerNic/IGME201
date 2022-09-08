@@ -27,7 +27,7 @@ namespace project5
 
                 if (i == 8)
                 {
-                    Console.WriteLine("The correct number was" + num);
+                    Console.WriteLine("The correct number was " + num);
                 }
                 else if (guess < num)
                 {
