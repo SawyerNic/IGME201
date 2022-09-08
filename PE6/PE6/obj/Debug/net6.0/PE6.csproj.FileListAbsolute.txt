@@ -1,0 +1,15 @@
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/bin/Debug/net6.0/PE6
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/bin/Debug/net6.0/PE6.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/bin/Debug/net6.0/PE6.runtimeconfig.json
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/bin/Debug/net6.0/PE6.dll
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/bin/Debug/net6.0/PE6.pdb
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/obj/Debug/net6.0/PE6.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/obj/Debug/net6.0/PE6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/obj/Debug/net6.0/PE6.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/obj/Debug/net6.0/PE6.AssemblyInfo.cs
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/obj/Debug/net6.0/PE6.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/obj/Debug/net6.0/PE6.dll
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/obj/Debug/net6.0/refint/PE6.dll
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/obj/Debug/net6.0/PE6.pdb
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/obj/Debug/net6.0/PE6.genruntimeconfig.cache
+/Users/sawyernicastro/Desktop/IGME 201/PE6/PE6/obj/Debug/net6.0/ref/PE6.dll
