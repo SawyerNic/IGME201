@@ -35,7 +35,7 @@ namespace madLibs
                 string adLib = "";
 
                 //adds line break
-                if(i == " \n ")
+                if(i == "\n")
                 {
                     output += "\n";
                 }
