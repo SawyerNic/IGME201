@@ -1,0 +1,15 @@
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/bin/Debug/net6.0/PE_Quotes
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/bin/Debug/net6.0/PE_Quotes.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/bin/Debug/net6.0/PE_Quotes.runtimeconfig.json
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/bin/Debug/net6.0/PE_Quotes.dll
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/bin/Debug/net6.0/PE_Quotes.pdb
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/obj/Debug/net6.0/PE_Quotes.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/obj/Debug/net6.0/PE_Quotes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/obj/Debug/net6.0/PE_Quotes.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/obj/Debug/net6.0/PE_Quotes.AssemblyInfo.cs
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/obj/Debug/net6.0/PE_Quotes.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/obj/Debug/net6.0/PE_Quotes.dll
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/obj/Debug/net6.0/refint/PE_Quotes.dll
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/obj/Debug/net6.0/PE_Quotes.pdb
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/obj/Debug/net6.0/PE_Quotes.genruntimeconfig.cache
+/Users/sawyernicastro/Desktop/IGME 201/PE_Quotes/PE_Quotes/obj/Debug/net6.0/ref/PE_Quotes.dll
