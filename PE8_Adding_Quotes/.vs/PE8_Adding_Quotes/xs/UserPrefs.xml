@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{030E1D21-7A36-4FD2-A342-9DEE488F0E09}|Default">
+﻿<Properties StartupConfiguration="{E95EB3E9-845F-4642-BBFB-103CC2ECA409}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.PE8__No__Yes__Conversion PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PE8_No_Yes_Conversion/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.PE8__Adding__Quotes PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PE8_Adding_Quotes/Program.cs">
     <Files>
-      <File FileName="PE8_No_Yes_Conversion/Program.cs" Line="3" Column="1" />
+      <File FileName="PE8_Adding_Quotes/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PE8_No_Yes_Conversion" expanded="True">
-            <Node name="PE8_No_Yes_Conversion" expanded="True" />
+          <Node name="PE8_Adding_Quotes" expanded="True">
+            <Node name="PE8_Adding_Quotes" expanded="True" />
           </Node>
         </State>
       </Pad>
