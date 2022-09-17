@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sawyernicastro/Desktop/IGME 201/PE9/PE9/PE9.csproj": {}
+    "/Users/sawyernicastro/Desktop/IGME 201/PE9.2/PE9/PE9.csproj": {}
   },
   "projects": {
-    "/Users/sawyernicastro/Desktop/IGME 201/PE9/PE9/PE9.csproj": {
+    "/Users/sawyernicastro/Desktop/IGME 201/PE9.2/PE9/PE9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sawyernicastro/Desktop/IGME 201/PE9/PE9/PE9.csproj",
+        "projectUniqueName": "/Users/sawyernicastro/Desktop/IGME 201/PE9.2/PE9/PE9.csproj",
         "projectName": "PE9",
-        "projectPath": "/Users/sawyernicastro/Desktop/IGME 201/PE9/PE9/PE9.csproj",
+        "projectPath": "/Users/sawyernicastro/Desktop/IGME 201/PE9.2/PE9/PE9.csproj",
         "packagesPath": "/Users/sawyernicastro/.nuget/packages/",
-        "outputPath": "/Users/sawyernicastro/Desktop/IGME 201/PE9/PE9/obj/",
+        "outputPath": "/Users/sawyernicastro/Desktop/IGME 201/PE9.2/PE9/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sawyernicastro/.nuget/NuGet/NuGet.Config"
