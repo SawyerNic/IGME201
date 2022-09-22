@@ -1,3 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
 
+namespace readLineManual
+{
+    class program
+    {
+        static void userInput(String input)
+        {
+            input = Console.ReadLine();
+
+        }
+
+        public static void (Main[])
+    }
+}
