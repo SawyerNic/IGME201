@@ -1,0 +1,15 @@
+/Users/sawyernicastro/Projects/Testing/Testing/obj/Debug/net6.0/Testing.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Projects/Testing/Testing/obj/Debug/net6.0/Testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Projects/Testing/Testing/obj/Debug/net6.0/Testing.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Projects/Testing/Testing/obj/Debug/net6.0/Testing.AssemblyInfo.cs
+/Users/sawyernicastro/Projects/Testing/Testing/obj/Debug/net6.0/Testing.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Projects/Testing/Testing/bin/Debug/net6.0/Testing
+/Users/sawyernicastro/Projects/Testing/Testing/bin/Debug/net6.0/Testing.deps.json
+/Users/sawyernicastro/Projects/Testing/Testing/bin/Debug/net6.0/Testing.runtimeconfig.json
+/Users/sawyernicastro/Projects/Testing/Testing/bin/Debug/net6.0/Testing.dll
+/Users/sawyernicastro/Projects/Testing/Testing/bin/Debug/net6.0/Testing.pdb
+/Users/sawyernicastro/Projects/Testing/Testing/obj/Debug/net6.0/Testing.dll
+/Users/sawyernicastro/Projects/Testing/Testing/obj/Debug/net6.0/refint/Testing.dll
+/Users/sawyernicastro/Projects/Testing/Testing/obj/Debug/net6.0/Testing.pdb
+/Users/sawyernicastro/Projects/Testing/Testing/obj/Debug/net6.0/Testing.genruntimeconfig.cache
+/Users/sawyernicastro/Projects/Testing/Testing/obj/Debug/net6.0/ref/Testing.dll
