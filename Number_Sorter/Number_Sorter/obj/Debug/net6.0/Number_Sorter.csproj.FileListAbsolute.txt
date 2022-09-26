@@ -1,0 +1,15 @@
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/bin/Debug/net6.0/Number_Sorter
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/bin/Debug/net6.0/Number_Sorter.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/bin/Debug/net6.0/Number_Sorter.runtimeconfig.json
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/bin/Debug/net6.0/Number_Sorter.dll
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/bin/Debug/net6.0/Number_Sorter.pdb
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/obj/Debug/net6.0/Number_Sorter.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/obj/Debug/net6.0/Number_Sorter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/obj/Debug/net6.0/Number_Sorter.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/obj/Debug/net6.0/Number_Sorter.AssemblyInfo.cs
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/obj/Debug/net6.0/Number_Sorter.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/obj/Debug/net6.0/Number_Sorter.dll
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/obj/Debug/net6.0/refint/Number_Sorter.dll
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/obj/Debug/net6.0/Number_Sorter.pdb
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/obj/Debug/net6.0/Number_Sorter.genruntimeconfig.cache
+/Users/sawyernicastro/Desktop/IGME 201/Number_Sorter/Number_Sorter/obj/Debug/net6.0/ref/Number_Sorter.dll
