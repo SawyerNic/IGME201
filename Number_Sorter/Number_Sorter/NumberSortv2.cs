@@ -5,13 +5,13 @@ namespace NumberSort
     class Program
     {
         // the definition of the delegate function data type
-        delegate double sortingFunction( double[] a );
+        delegate double sortingFunction(double[] a);
 
         static void Main(string[] args)
         {
             // declare the unsorted and sorted arrays
-            double[] aUnsorted;
-            double[] aSorted;
+            string[] aUnsorted;
+            string[] aSorted;
 
             // declare the delegate variable which will point to the function to be called
             sortingFunction findHiLow;
@@ -21,53 +21,40 @@ namespace NumberSort
             Console.WriteLine("Enter a list of space-separated numbers");
 
             // read the space-separated string of numbers
-            string sNumbers = Console.ReadLine();
+            string sStrings = Console.ReadLine();
 
             // split the string into the an array of strings which are the individual numbers
-            string[] sNumber = sNumbers.Split(' ');
+            string[] sString = sStrings.Split(' ');
 
             // initialize the size of the unsorted array to 0
             int nUnsortedLength = 0;
 
             // a double used for parsing the current array element
-            double nThisNumber;
+            string nThisWord;
 
             // iterate through the array of number strings
-            foreach (string sThisNumber in sNumber)
+            foreach (string sThisWord in sString)
             {
                 // if the length of this string is 0 (ie. they typed 2 spaces in a row)
-                if( sThisNumber.Length == 0)
+                if (sThisWord.Length == 0)
                 {
                     // skip it
                     continue;
                 }
 
-                try
-                {
-                    // try to parse the current string into a double
-                    nThisNumber = double.Parse(sThisNumber);
+                nThisWord = sThisWord;
 
-                    // if it's successful, increment the number of unsorted numbers
-                    ++nUnsortedLength;
-                }
-                catch
-                {
-                    // if an exception occurs
-                    // indicate which number is invalid
-                    Console.WriteLine($"Number #{nUnsortedLength + 1} is not a valid number.");
-
-                    // loop back to the start
-                    goto start;
-                }
+                ++nUnsortedLength;
+                
             }
 
             // now we know how many unsorted numbers there are
             // allocate the size of the unsorted array
-            aUnsorted = new double[nUnsortedLength];
+            aUnsorted = new string[nUnsortedLength];
 
             // reset nUnsortedLength back to 0 to use as the index to store the numbers in the unsorted array
             nUnsortedLength = 0;
-            foreach (string sThisNumber in sNumber)
+            foreach (string sThisNumber in sString)
             {
                 // still skip the blank strings
                 if (sThisNumber.Length == 0)
@@ -75,24 +62,21 @@ namespace NumberSort
                     continue;
                 }
 
-                // parse it into a double (we know they are all valid now)
-                nThisNumber = double.Parse(sThisNumber);
-
                 // store the value into the array
-                aUnsorted[nUnsortedLength] = nThisNumber;
+                aUnsorted[nUnsortedLength] = nThisWord;
 
                 // increment the array index
                 nUnsortedLength++;
             }
 
             // allocate the size of the sorted array
-            aSorted = new double[nUnsortedLength];
+            aSorted = new string[nUnsortedLength];
 
             // prompt for <a>scending or <d>escending
             Console.Write("Ascending or Descending? ");
             string sDirection = Console.ReadLine();
-            
-            if( sDirection.ToLower().StartsWith("a"))
+
+            if (sDirection.ToLower().StartsWith("a"))
             {
                 findHiLow = new sortingFunction(FindLowestValue);
             }
@@ -119,7 +103,7 @@ namespace NumberSort
 
             // write the sorted array of numbers
             Console.WriteLine("The sorted list is: ");
-            foreach(double thisNum in aSorted)
+            foreach (double thisNum in aSorted)
             {
                 Console.Write($"{thisNum} ");
             }
@@ -128,7 +112,7 @@ namespace NumberSort
         }
 
         // find the lowest value in the array of doubles
-        static double FindLowestValue( double[] array)
+        static double FindLowestValue(double[] array)
         {
             // define return value
             double returnVal;
@@ -138,10 +122,10 @@ namespace NumberSort
             returnVal = array[0];
 
             // loop through the array
-            foreach( double thisNum in array)
+            foreach (double thisNum in array)
             {
                 // if the current value is less than the saved lowest value
-                if( thisNum < returnVal)
+                if (thisNum < returnVal)
                 {
                     // save this as the lowest value
                     returnVal = thisNum;
@@ -191,10 +175,10 @@ namespace NumberSort
             bool bAlreadyRemoved = false;
 
             // iterate through the source array
-            foreach( double srcNumber in array)
+            foreach (double srcNumber in array)
             {
                 // if this is the number to be removed and we didn't remove it yet
-                if( srcNumber == removeValue && !bAlreadyRemoved)
+                if (srcNumber == removeValue && !bAlreadyRemoved)
                 {
                     // set the flag that it was removed
                     bAlreadyRemoved = true;
