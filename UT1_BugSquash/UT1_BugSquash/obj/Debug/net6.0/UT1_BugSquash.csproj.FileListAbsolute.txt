@@ -1,0 +1,15 @@
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/bin/Debug/net6.0/UT1_BugSquash
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/bin/Debug/net6.0/UT1_BugSquash.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/bin/Debug/net6.0/UT1_BugSquash.runtimeconfig.json
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/bin/Debug/net6.0/UT1_BugSquash.dll
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/bin/Debug/net6.0/UT1_BugSquash.pdb
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.AssemblyInfo.cs
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.dll
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/refint/UT1_BugSquash.dll
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.pdb
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.genruntimeconfig.cache
+/Users/sawyernicastro/Desktop/IGME 201/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/ref/UT1_BugSquash.dll
