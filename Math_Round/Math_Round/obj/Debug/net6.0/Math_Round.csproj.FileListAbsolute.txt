@@ -1,0 +1,15 @@
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/obj/Debug/net6.0/Math_Round.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/obj/Debug/net6.0/Math_Round.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/obj/Debug/net6.0/Math_Round.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/obj/Debug/net6.0/Math_Round.AssemblyInfo.cs
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/obj/Debug/net6.0/Math_Round.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/bin/Debug/net6.0/Math_Round
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/bin/Debug/net6.0/Math_Round.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/bin/Debug/net6.0/Math_Round.runtimeconfig.json
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/bin/Debug/net6.0/Math_Round.dll
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/bin/Debug/net6.0/Math_Round.pdb
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/obj/Debug/net6.0/Math_Round.dll
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/obj/Debug/net6.0/refint/Math_Round.dll
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/obj/Debug/net6.0/Math_Round.pdb
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/obj/Debug/net6.0/Math_Round.genruntimeconfig.cache
+/Users/sawyernicastro/Desktop/IGME 201/Math_Round/Math_Round/obj/Debug/net6.0/ref/Math_Round.dll
