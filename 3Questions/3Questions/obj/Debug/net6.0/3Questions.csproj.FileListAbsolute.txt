@@ -1,0 +1,15 @@
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/obj/Debug/net6.0/3Questions.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/obj/Debug/net6.0/3Questions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/obj/Debug/net6.0/3Questions.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/obj/Debug/net6.0/3Questions.AssemblyInfo.cs
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/obj/Debug/net6.0/3Questions.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/bin/Debug/net6.0/3Questions
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/bin/Debug/net6.0/3Questions.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/bin/Debug/net6.0/3Questions.runtimeconfig.json
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/bin/Debug/net6.0/3Questions.dll
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/bin/Debug/net6.0/3Questions.pdb
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/obj/Debug/net6.0/3Questions.dll
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/obj/Debug/net6.0/refint/3Questions.dll
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/obj/Debug/net6.0/3Questions.pdb
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/obj/Debug/net6.0/3Questions.genruntimeconfig.cache
+/Users/sawyernicastro/Desktop/IGME 201/3Questions/3Questions/obj/Debug/net6.0/ref/3Questions.dll

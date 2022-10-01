@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{19B1A3C8-3320-477A-BD6B-C254AAD5B97E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="3Questions/Program.cs">
     <Files>
-      <File FileName="3Questions/Program.cs" Line="1" Column="1" />
+      <File FileName="3Questions/Program.cs" Line="29" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="3Questions" expanded="True">
-            <Node name="3Questions" expanded="True" />
+            <Node name="3Questions" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -21,6 +23,6 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.3Questions PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.3Questions PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

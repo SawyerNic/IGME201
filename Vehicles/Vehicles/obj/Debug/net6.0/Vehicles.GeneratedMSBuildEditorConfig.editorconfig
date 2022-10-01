@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _3Questions
-build_property.ProjectDir = /Users/sawyernicastro/Library/Containers/com.adobe.accmac.ACCFinderSync/Data/Desktop/IGME 201/3Questions/3Questions/
+build_property.RootNamespace = Vehicles
+build_property.ProjectDir = /Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/
