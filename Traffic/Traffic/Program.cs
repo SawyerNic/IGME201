@@ -1,3 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using Vehicles;
+using System;
 
+namespace Traffic
+{
+
+    class Program
+    {
+
+        static void AddPassenger(IPassengerCarrier vehichle)
+        {
+           vehichle.LoadPassenger();
+           vehichle.ToString();
+        }
+
+    }
+}
