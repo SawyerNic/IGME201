@@ -1,0 +1,12 @@
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/bin/Debug/net6.0/Vehicles.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/bin/Debug/net6.0/Vehicles.dll
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/bin/Debug/net6.0/Vehicles.pdb
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/obj/Debug/net6.0/Vehicles.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/obj/Debug/net6.0/Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/obj/Debug/net6.0/Vehicles.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/obj/Debug/net6.0/Vehicles.AssemblyInfo.cs
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/obj/Debug/net6.0/Vehicles.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/obj/Debug/net6.0/Vehicles.dll
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/obj/Debug/net6.0/refint/Vehicles.dll
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/obj/Debug/net6.0/Vehicles.pdb
+/Users/sawyernicastro/Desktop/IGME 201/Vehicles/Vehicles/obj/Debug/net6.0/ref/Vehicles.dll
