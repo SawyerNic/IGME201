@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Vehicles" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Vehicles">
+      <HintPath>..\..\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>
