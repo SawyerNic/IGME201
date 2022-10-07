@@ -1,18 +1,15 @@
-﻿<Properties StartupConfiguration="{EFC3D3C3-7344-4322-AA09-10D333797B7C}|Default">
+﻿<Properties StartupConfiguration="{795D1C68-144E-44FA-8E00-FA6D113ACF6A}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.GetString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="GetString" expanded="True">
-            <Node name="GetString" expanded="True" />
-          </Node>
+          <Node name="PetApp" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -20,4 +17,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PetApp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

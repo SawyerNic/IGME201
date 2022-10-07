@@ -1,0 +1,15 @@
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/obj/Debug/net6.0/GetString.csproj.AssemblyReference.cache
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/obj/Debug/net6.0/GetString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/obj/Debug/net6.0/GetString.AssemblyInfoInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/obj/Debug/net6.0/GetString.AssemblyInfo.cs
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/obj/Debug/net6.0/GetString.csproj.CoreCompileInputs.cache
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/bin/Debug/net6.0/GetString
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/bin/Debug/net6.0/GetString.deps.json
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/bin/Debug/net6.0/GetString.runtimeconfig.json
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/bin/Debug/net6.0/GetString.dll
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/bin/Debug/net6.0/GetString.pdb
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/obj/Debug/net6.0/GetString.dll
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/obj/Debug/net6.0/refint/GetString.dll
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/obj/Debug/net6.0/GetString.pdb
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/obj/Debug/net6.0/GetString.genruntimeconfig.cache
+/Users/sawyernicastro/Desktop/IGME 201/GetString/GetString/obj/Debug/net6.0/ref/GetString.dll

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Internal;
 
 namespace Test
 {
@@ -20,6 +19,10 @@ namespace Test
                 {
                     myString = Console.ReadLine();
                 }
+                get
+                {
+                    return myString;
+                }
 
             }
 
@@ -27,7 +30,7 @@ namespace Test
             public virtual String GetString()
             {
 
-                return MyString;
+                return myString;
             }
 
         }
@@ -36,12 +39,21 @@ namespace Test
         public class MyDerivedClass : MyClass
         {
 
-            public virtual String GetString()
+            public override String GetString()
             {
 
-                // return MyString + " appended from derived class";
+               return MyString + " appended from derived class";
+                
 
             }
+        }
+
+        public static void Main()
+        {
+            MyDerivedClass reference = new MyDerivedClass();
+
+            Console.WriteLine(reference.GetString());
+
         }
     }
 }
